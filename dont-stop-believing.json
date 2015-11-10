@@ -1,0 +1,24 @@
+{"song": {
+    "title:": "Don't Stop Believing",
+    "artist": "Journey",
+    "key": "E",
+    "sections": [
+      {
+        "lines": [
+          {"fragments": [
+            {"chord": "E","fragment": "Just a"},
+            {"chord": "B","fragment": "small town girl,"},
+            {"chord": "C#m","fragment": "living in a"},
+            {"chord": "A","fragment": "lonely world"}
+          ]},
+          {"fragments": [
+            {"chord": "E","fragment": "She took the"},
+            {"chord": "B","fragment": "midnight train going"},
+            {"chord": "G#m","fragment": "anywhere"},
+            {"chord": "A", "fragment": ""}
+          ]} 
+        ]
+      }
+    ]
+  }
+}
