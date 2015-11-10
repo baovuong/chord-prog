@@ -1,0 +1,25 @@
+<song>
+  <title>Dont Stop Believing</title>
+  <artist>Journey</artist>
+  <key>E</key>
+  <sections>
+
+    <section>
+      <lines>
+        <line>
+          <fragment chord="E">Just a</fragment>
+          <fragment chord="B">small town girl,</fragment>
+          <fragment chord="C#m">living in a</fragment>
+          <fragment chord="A">lonely world</fragment>
+        </line>
+        <line>
+          <fragment chord="E">She took the</fragment>
+          <fragment chord="B">midnight train going</fragment>
+          <fragment chord="G#m">anywhere</fragment>
+          <fragment chord="A"></fragment>
+        </line>
+      </lines>
+    </section>
+
+  </sections>
+</song>
