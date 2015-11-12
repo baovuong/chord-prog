@@ -2,12 +2,14 @@
 #define SONG_H
 
 #include <string>
+#include <vector>
 
 class song
 {
 private:
     std::string title_;
     std::string artist_;
+    std::vector<section> sections_;
 public:
     song();
 
